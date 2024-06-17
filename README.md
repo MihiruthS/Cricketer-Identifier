@@ -64,3 +64,9 @@ Contributions are welcome! Please fork this repository and submit a pull request
 ## Acknowledgements
 
 Special thanks to the Codebasics YouTube channel for their comprehensive tutorials on building machine learning models and web applications.
+
+## Watch a Demo
+
+https://github.com/MihiruthS/Cricketer-Identifier/assets/166645514/b13d0a68-ad82-4715-b442-a6d8d0671f67
+
+
