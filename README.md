@@ -6,6 +6,8 @@ This repository contains a Cricketer Identifier model that can identify a cricke
 
 The Cricketer Identifier model uses OpenCV for image processing, Python FlaskNet for the web server, and Haar Cascade for face detection. The project includes all necessary files for model training, user interface, and server setup.
 
+![image](https://github.com/MihiruthS/Cricketer-Identifier/assets/166645514/ef99dca7-d221-4118-9ae3-7845e51a11a0)
+
 ## Features
 
 - Identify cricketers from an image
